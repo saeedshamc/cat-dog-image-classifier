@@ -1,0 +1,9 @@
+cats_and_dogs/
+cats_and_dogs.zip
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+.DS_Store
+*.h5
+*.keras
